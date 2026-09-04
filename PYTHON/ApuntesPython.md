@@ -19,6 +19,8 @@ Ahora esta libreria nos consigue varias funciones, como son demasiadas solo pond
 
 CODIGOS:
 
+np.random.seed(42): genera numeros aleatorios
+
 np.array([1,2,3]): Con este codigo creamos un arreglo basico con valores ya predefinidos
 
 np.zeros(5): Crea un arreglo de cinco ceros
