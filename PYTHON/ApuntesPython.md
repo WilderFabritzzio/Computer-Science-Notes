@@ -6,6 +6,7 @@
 ## Ejemplos:
 
 # LIBRERIAS:
+## numpy:
 
 En librerias tenemos como primero a "numpy" la cual la vamos a declarar una variable para poder ejecutarlo mas sencillo
 el codigo para implementarlo seria
@@ -23,6 +24,8 @@ np.array([1,2,3]): Con este codigo creamos un arreglo basico con valores ya pred
 np.zeros(5): Crea un arreglo de cinco ceros
 
 np.ones((3,3)): Este codigo crea una matriz de 3x3 lleno de unos
+
+## random:
 
 np.arange(0,10,2): Crear una secuencia de numeros de 0 al 10 con un paso de 2
 
